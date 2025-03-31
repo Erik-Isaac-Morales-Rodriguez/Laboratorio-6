@@ -1,0 +1,7 @@
+.nav-link.active {
+    color: #fff;
+    background-color: #aaaaaa;
+    border-radius: 10px;
+    /* Puedes agregar más estilos para resaltar el enlace */
+  }
+  
